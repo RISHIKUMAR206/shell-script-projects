@@ -1,3 +1,9 @@
+About Task:📊 This is a System Monitoring Shell Script that checks CPU, RAM, and Disk usage.
+If any resource usage goes above 75%, it generates an alert message.
+This script is created for practicing Linux commands and basic shell scripting concepts.
+
+
+
 #!/bin/bash
 
 LIMIT=75
