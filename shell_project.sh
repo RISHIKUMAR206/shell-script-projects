@@ -1,3 +1,7 @@
+About Task:🖥️ This is a basic system information shell script that displays user details, date & time, uptime, last login, disk space, RAM usage, and running processes.
+It is created to practice Linux system commands and Bash scripting basics.
+
+
 #!/bin/bash
 
 echo "--------------------------------"
