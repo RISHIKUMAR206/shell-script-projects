@@ -32,3 +32,4 @@ if [ $DISK -ge $LIMIT ]; then
   echo "ALERT: Disk usage is above 75%"
 fi
 
+
