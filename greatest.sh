@@ -1,3 +1,6 @@
+About Task:🔢 This is a simple shell script that takes three numbers as input from the user and finds the greatest number using conditional statements.
+It is created to practice user input and if-else conditions in Bash scripting.
+
 #!/bin/bash
 
 echo "Enter first number:"
